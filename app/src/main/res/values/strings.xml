@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidTP1</string>
+    <string name="menu">Menu</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="img_activity">Image Activity</string>
+    <string name="hello_activity">Hello Activity</string>
+    <string name="input_name_hint">Name</string>
+    <string name="todo_activity">Todo Activity</string>
+    <string name="your_task">Your task</string>
+</resources>

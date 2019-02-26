@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidTP1</string>
+    <string name="menu">Menu</string>
+    <string name="main_activity">Activite Principale</string>
+    <string name="img_activity">Activite Image</string>
+    <string name="hello_activity">Activite Hello</string>
+    <string name="input_name_hint">Nom</string>
+    <string name="todo_activity">Activite Todo</string>
+    <string name="your_task">Votre tâche</string>
+</resources>
