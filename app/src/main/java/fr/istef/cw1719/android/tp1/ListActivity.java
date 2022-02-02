@@ -32,9 +32,15 @@ public class ListActivity extends AppCompatActivity {
         this.todos.add("Summary");
 
         // create adapter
-//        this.todoAdapter = new ArrayAdapter<>(this,
-//            android.R.layout.simple_list_item_1,
-//            todos);
+        // this.todoAdapter = new ArrayAdapter<>(this,
+        //    android.R.layout.simple_list_item_1,
+        //    todos);
+
+        this.todoAdapter = new TodoAdapter(this,
+                R.layout.lv_item_todo,
+                todos);
+
+
 
         // set adapter
         this.lvTodo = findViewById(R.id.lv_todo);
