@@ -11,5 +11,8 @@
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="342dp"
         app:srcCompat="@drawable/citron_vert" />
 </RelativeLayout>
